@@ -6,7 +6,9 @@
 
  #### While different parts of the ThemeCore™ project are covered by various approved open source licenses, our logos, icons, miscellaneous graphics, and other media are not. As such, these forms of media have specific guidelines for both usage and reproduction.
 
- #### Most of the various forms of media in this repository are either trademarked (™), or are registered trademarks (®) of the ThemeCore™ project. The ThemeCore™ project itself was created by [Erik Roth](https://github.com/Erik-Rothh) ([GIT]() [LIn]()) and is trademarked by [RL Technologies, LLC](https://rltechsllc.com) ([Gitimg](https://github.com/RLTechs) [FB](https://github.com/RLTechs) [TWT](https://github.com/RLTechs) [LIn](https://github.com/RLTechs)).
+ #### Most of the various forms of media in this repository are either trademarked (™), or are registered trademarks (®) of the ThemeCore™ project. The ThemeCore™ project itself was created by [Erik Roth](https://github.com/Erik-Rothh) [<img src="docs/images/github.svg" style="height: 15px;" title="GitHub Link">]() [LIn]() and is currently trademarked by [RL Technologies, LLC](https://rltechsllc.com) [<img src="docs/images/github.svg" style="height: 15px;" title="GitHub Link">](https://github.com/RLTechs) 
+ 
+ [FB](https://github.com/RLTechs) [TWT](https://github.com/RLTechs) [LIn](https://github.com/RLTechs) for the ThemeCore™ project.
 
 ---
 
@@ -30,10 +32,10 @@ Because, in the spirit of open source, we feel all the files for the ThemeCore�
 
 #### Recommended Reading...
 
-- ThemeCore™ Trademark and Branding Policy [webicon]() [giticon]()
-- ThemeCore™ Trademark and Branding Contribution Policy [webicon]() [giticon]()
-- ThemeCore™ Trademark and Branding Submission Policy [webicon]() [giticon]()
-- ThemeCore™ Trademark and Branding Code Of Conduct [webicon]() [giticon]()
+- ThemeCore™ Trademark and Branding Policy [webicon]() [<img src="docs/images/github.svg" style="height: 15px;" title="GitHub Link">]()
+- ThemeCore™ Trademark and Branding Contribution Policy [webicon]() [<img src="docs/images/github.svg" style="height: 15px;" title="GitHub Link">]()
+- ThemeCore™ Trademark and Branding Submission Policy [webicon]() [<img src="docs/images/github.svg" style="height: 15px;" title="GitHub Link">]()
+- ThemeCore™ Trademark and Branding Code Of Conduct [webicon]() [<img src="docs/images/github.svg" style="height: 15px;" title="GitHub Link">]()
 
 ---
 
