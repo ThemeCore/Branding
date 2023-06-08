@@ -1,6 +1,6 @@
 # ThemeCore™ Artwork and Graphics
 
-### This repository is for all the various forms of media assets used in the ThemeCore™ project.
+### This repository is for all the various media assets used in the ThemeCore™ project.
 
 ---
 
@@ -9,4 +9,4 @@
 
 ### 3
 ---
-<center><sup>Copyright ©2022-Present: <a href="https://rltechsllc.com" title="Visit RLTechs Online" target="_blank">RL Technologies, LLC</a> and the <a href="mailto:codeteam@themecore.org" title="Send the team an email!">ThemeCore™ Development Code Team</a>. All Rights Reserved.</sup></center>
+###### <center> Copyright ©2022-Present: [RL Technologies, LLC](https://rltechs.com) and the [ThemeCore™ Development Code Team](mailto:codeteam@themecore.org). All Rights Reserved. </center>
