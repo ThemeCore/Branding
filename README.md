@@ -1,7 +1,14 @@
 <p align="center">TC LOGO IMG HERE!</p>
 
 # <p align="center">Artwork and Graphics Repository</p>
-### <p align="center">This repository is for all the various media assets within the ThemeCore™ project.<p>
+### <p align="center">This repository is for all the various media assets within the ThemeCore™ project.</p>
+
+<p align="center">
+<img alt="GitHub contributors" src="https://img.shields.io/github/contributors/ThemeCore/Graphics?color=blue&style=for-the-badge"/>
+<img alt="Maintenance" src="https://img.shields.io/maintenance/yes/2023?style=for-the-badge"/>
+<img alt="GitHub all releases" src="https://img.shields.io/github/downloads/ThemeCore/Graphics/total?style=for-the-badge"/>
+</p>
+
 ---
 
  #### While different parts of the ThemeCore™ project are covered by various approved open source licenses, our logos, icons, miscellaneous graphics, and other media are not. As such, these forms of media have specific guidelines for both usage and reproduction.
@@ -12,6 +19,7 @@
 
  
  [FB](https://github.com/RLTechs) [TWT](https://github.com/RLTechs) [LIn](https://github.com/RLTechs) for the ThemeCore™ project.
+ 
 
 ---
 
@@ -60,6 +68,7 @@ Because, in the spirit of open source, we feel all the files for the ThemeCore�
 <a href="https://github.com/ThemeCore/Graphics/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=ThemeCore/Graphics" />
 </a>
+
 ---
 
 #### ThemeCore™ Artwork and Graphics Sponsors...
