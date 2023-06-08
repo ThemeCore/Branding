@@ -4,9 +4,9 @@
 ### <p align="center">This repository is for all the various media assets within the ThemeCore™ project.<p>
 ---
 
- #### While diffrent parts of the ThemeCore™ project are covered by various approved open source licenses, our logos, icons, miscellaneous graphics, and other media are not. 
+ #### While diffrent parts of the ThemeCore™ project are covered by various approved open source licenses, our logos, icons, miscellaneous graphics, and other media are not. As such, these forms of media have specific guidelines for both usage and reproduction.
 
- Most of the various forms of media in this repository are either trademarked (™), or are a registered trademark (®) of the ThemeCore™ project. As such, these forms of media have specific guidelines for both usage and reproduction. ThemeCore™ itself is trademarked by [RL Technologies, LLC](https://rltechsllc.com) ([Git](https://github.com/RLTechs))
+ Most of the various forms of media in this repository are either trademarked (™), or are a registered trademark (®) of the ThemeCore™ project.  ThemeCore™ itself is trademarked by [RL Technologies, LLC](https://rltechsllc.com) ([Git](https://github.com/RLTechs))
 
 ####  
 
