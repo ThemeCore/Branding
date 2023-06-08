@@ -8,7 +8,7 @@
 
  #### Most of the various forms of media in this repository are either trademarked (™), or are registered trademarks (®) of the ThemeCore™ project. The ThemeCore™ project itself was created by [Erik Roth](https://github.com/Erik-Rothh) [<img src="docs/images/github.svg" style="height: 15px;" title="GitHub Link">]() [LIn]() and is currently trademarked by [RL Technologies, LLC](https://rltechsllc.com) 
  
- <a href="https://github.com/RLTechs"><picture><source media="(prefers-color-scheme: light)" srcset="./docs/images/github-lt.svg"><source media="(prefers-color-scheme: dark)" srcset="./docs/images/github-lt.svg"><img alt="GitHub Link" title="GitHub Link" src="./docs/images/github-dk.svg" width="18px"></picture></a>
+ <a href="https://github.com/RLTechs"><picture><source media="(prefers-color-scheme: light)" srcset="./docs/images/github-lt.svg"><source media="(prefers-color-scheme: dark)" srcset="./docs/images/github-dk.svg"><img alt="GitHub Link" title="GitHub Link" src="./docs/images/github-dk.svg" width="18px"></picture></a>
 
 
  
