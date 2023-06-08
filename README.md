@@ -1,12 +1,15 @@
-# ThemeCore™ Artwork and Graphics
+<p align="center">TC LOGO IMG HERE!</p>
 
-### This repository is for all the various media assets used in the ThemeCore™ project.
-
+# <p align="center">Artwork and Graphics Repository</p>
+### <p align="center">This repository is for all the various media assets within the ThemeCore™ project.<p>
 ---
 
- #### While diffrent parts of ThemeCore™ itself are covered by various approved open source licenses, our logos, icons, misc. graphics, and other media is not. Most of the various forms of media in this repository are either trademarked (™), or are a registered trademark (®) of the ThemeCore™ project. As such, these forms of media have specific guidelines for both usage and reproduction. ThemeCore™ itself is trademarked by [RL Technologies, LLC](https://rltechsllc.com) ([Git](https://github.com/RLTechs)) @RLTechs
+ #### While diffrent parts of the ThemeCore™ project are covered by various approved open source licenses, our logos, icons, miscellaneous graphics, and other media are not. 
+
+ Most of the various forms of media in this repository are either trademarked (™), or are a registered trademark (®) of the ThemeCore™ project. As such, these forms of media have specific guidelines for both usage and reproduction. ThemeCore™ itself is trademarked by [RL Technologies, LLC](https://rltechsllc.com) ([Git](https://github.com/RLTechs))
+
 ####  
 
-### 3
+### 
 ---
 ###### <p align="center"> Copyright ©2022-Present: [RL Technologies, LLC](https://rltechs.com) and the [ThemeCore™ Development Code Team](mailto:codeteam@themecore.org). All Rights Reserved. </p>
