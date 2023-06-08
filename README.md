@@ -11,7 +11,7 @@
 ![Fancy logo](./docs/images/github-dk.svg#gh-dark-mode-only | width=18px)
 ![Fancy logo](./docs/images/github-lt.svg#gh-light-mode-only | width=18px)
  
- <a href="https://github.com/RLTechs"><picture><source media="(prefers-color-scheme: dark)" srcset="./docs/images/github-lt.svg"><img alt="GitHub Link" title="GitHub Link" src="./docs/images/github-dk.svg" width="18px"></picture></a>
+ <a href="https://github.com/RLTechs"><picture><source media="(prefers-color-scheme: light)" srcset="./docs/images/github-lt.svg"><img alt="GitHub Link" title="GitHub Link" src="./docs/images/github-dk.svg" width="18px"></picture></a>
 
 
  
