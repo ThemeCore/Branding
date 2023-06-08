@@ -10,4 +10,4 @@
 
 ### 3
 ---
-<center><sup>Copyright ©2022-Present: [RL Technologies, LLC](https://rltechsllc.com) and the ThemeCore™ Development Code Team. All Rights Reserved.</sup></center>
+<center><sup>Copyright ©2022-Present: <a href="https://rltechsllc.com" title="Visit RLTechs Online" target="_blank">RL Technologies, LLC</a> and the <a href="mailto:codeteam@themecore.org" title="Send the team an email!">ThemeCore™ Development Code Team</a>. All Rights Reserved.</sup></center>
