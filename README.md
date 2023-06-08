@@ -57,8 +57,8 @@ Because, in the spirit of open source, we feel all the files for the ThemeCoreâ„
 
 #### ThemeCoreâ„¢ Artwork and Graphics Contributors...
 
-<a href = "https://github.com/ThemeCore/Graphics/graphs/contributors">
-  <img src = "https://contrib.rocks/image?repo = ThemeCore/Graphics"/>
+<a href="https://github.com/ThemeCore/Graphics/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=ThemeCore/Graphics" />
 </a>
 ---
 
