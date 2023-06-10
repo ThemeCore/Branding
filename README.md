@@ -11,25 +11,19 @@
 
 ---
 
- #### While different parts of the ThemeCore™ project are covered by various approved open source licenses, our logos, icons, miscellaneous graphics, and other media are not. As such, these forms of media have specific guidelines for both usage and reproduction.
+ #### While different parts of the ThemeCore project are covered by various approved open source licenses, our logos, icons, miscellaneous graphics, and other media are not. As such, these forms of media have specific guidelines for both usage and reproduction. Any changes to the branding or policies of use for the branding will always be updated here in this repository. You can also find the information on the [ThemeCore](https://themecore.org/legal/) website.
 
- #### Most of the various forms of media in this repository are either trademarked (™), or are registered trademarks (®) of the ThemeCore™ project. The ThemeCore™ project itself was created by [Erik Roth](https://github.com/Erik-Rothh)  <a href="https://github.com/Erik-Roth"><picture><source media="(prefers-color-scheme: light)" srcset="./docs/images/github-lt.svg"><source media="(prefers-color-scheme: dark)" srcset="./docs/images/github-dk.svg"><img alt="GitHub Link" title="GitHub Link" src="./docs/images/github-dk.svg" width="16px"></picture></a> [LIn]() and is currently trademarked by [RL Technologies, LLC](https://rltechsllc.com) <a href="https://github.com/RLTechs"><picture><source media="(prefers-color-scheme: light)" srcset="./docs/images/github-lt.svg"><source media="(prefers-color-scheme: dark)" srcset="./docs/images/github-dk.svg"><img alt="GitHub Link" title="GitHub Link" src="./docs/images/github-dk.svg" width="16px"></picture></a>
-
- <a href="https://github.com/RLTechs"><picture><source media="(prefers-color-scheme: light)" srcset="./docs/images/github-lt.svg"><source media="(prefers-color-scheme: dark)" srcset="./docs/images/github-dk.svg"><img alt="GitHub Link" title="GitHub Link" src="./docs/images/github-dk.svg" width="16px"></picture></a>
-
- 
- [FB](https://github.com/RLTechs) [TWT](https://github.com/RLTechs) [LIn](https://github.com/RLTechs) for the ThemeCore™ project.
- 
+ #### Most of the various forms of media in this repository are either trademarked, or registered trademarks of the ThemeCore project. The ThemeCore project itself was created by [Erik Roth](https://github.com/Erik-Roth) and is currently trademarked by [RL Technologies, LLC](https://rltechsllc.com) on behalf of the [ThemeCore](https://themecore.org) project.
 
 ---
 
-#### Why are some things trademarked and not fully open source?
+#### Why are some things trademarked and not considered fully open source?
 
-ThemeCore™ was conceived, and is being actively developed as a brand for a complete WordPress™ theme and plugin development solution. As such, the images, color palettes, layouts, etc for the brand were trademarked to provide consistency and recognizability in the representation of the brand. In addition, this provides continued protection of the ThemeCore™ brand, helping to ensure its reputation in the community.
+ThemeCore was conceived, and is being actively developed as a brand for a complete WordPress theme and plugin development solution. As such, the images, color palettes, layouts, etc for the brand were trademarked to provide consistency and recognizability in the representation of the brand. In addition, this provides continued protection of the ThemeCore brand, helping to ensure its reputation in the community in perpetuity.
 
-#### Can I use the ThemeCore™ branding in my projects?
+#### Can I use the ThemeCore branding in my projects?
 
-Yes, and no. It all depends on how and why you wish to use the branding. We have developed a '[Trademark and Branding Policy]()' to help you decide wether or not using the ThemeCore™ branding is acceptable for your project, website, or anywhere else you wish to use our branding. If you are unsure about anything contained in the policy guidelines, you can always send us an email at <branding@themecore.org>.
+Yes, and no. It all depends on how and why you wish to use the branding. We have developed a '[Trademark and Branding Usage Policy]()' to help you decide wether or not using the ThemeCore branding is acceptable for your project, website, or anywhere else you wish to use ThemeCore's branding. If you are unsure about anything contained in the policy guidelines, you can always send us an email at <branding@themecore.org>.
 
 #### Do you accept ideas or contributions to the branding?
 
@@ -43,10 +37,10 @@ Because, in the spirit of open source, we feel all the files for the ThemeCore�
 
 #### Recommended Reading...
 
-- ThemeCore™ Trademark and Branding Policy [webicon]() <a href="#"><picture><source media="(prefers-color-scheme: light)" srcset="./docs/images/github-lt.svg"><source media="(prefers-color-scheme: dark)" srcset="./docs/images/github-dk.svg"><img alt="GitHub Link" title="GitHub Link" src="./docs/images/github-dk.svg" width="16px"></picture></a>
-- ThemeCore™ Trademark and Branding Contribution Policy [webicon]() <a href="#"><picture><source media="(prefers-color-scheme: light)" srcset="./docs/images/github-lt.svg"><source media="(prefers-color-scheme: dark)" srcset="./docs/images/github-dk.svg"><img alt="GitHub Link" title="GitHub Link" src="./docs/images/github-dk.svg" width="16px"></picture></a>
-- ThemeCore™ Trademark and Branding Submission Policy [webicon]() <a href="#"><picture><source media="(prefers-color-scheme: light)" srcset="./docs/images/github-lt.svg"><source media="(prefers-color-scheme: dark)" srcset="./docs/images/github-dk.svg"><img alt="GitHub Link" title="GitHub Link" src="./docs/images/github-dk.svg" width="16px"></picture></a>
-- ThemeCore™ Trademark and Branding Code Of Conduct [webicon]() <a href="#"><picture><source media="(prefers-color-scheme: light)" srcset="./docs/images/github-lt.svg"><source media="(prefers-color-scheme: dark)" srcset="./docs/images/github-dk.svg"><img alt="GitHub Link" title="GitHub Link" src="./docs/images/github-dk.svg" width="16px"></picture></a>
+- ThemeCore Trademark and Branding Usage Policy
+- ThemeCore Trademark and Branding Contribution Policy
+- ThemeCore Trademark and Branding Submission Policy
+- ThemeCore Trademark and Branding Code Of Conduct
 
 ---
 
@@ -72,10 +66,11 @@ Because, in the spirit of open source, we feel all the files for the ThemeCore�
 ---
 
 #### ThemeCore™ Artwork and Graphics Sponsors...
+<p align="center"></p>
 
 ---
 
-##### misc Trademarks...
+<p align="justify" style="font-size: 9px;">Brands, copyrights, and trademarks used or recommended in any of this repository's documentation and/or files are all copywritten and trademark by their respective companies and in no way does use or mention imply any form of endorsement of ThemeCore™ by the respective companies. Apple®, Motion®, Final Cut Pro® and their respective logos are registered trademarks of Apple in the United States and/or other Countries. Adobe®, Creative Cloud®, Illustrator®, Photoshop®, and their respective logos are registered trademarks of Adobe in the United States and/or other Countries. Gimp and Inkscape are Free and Open Source products freely available under the GPL.</p>
 
 ---
-###### <p align="center"> Copyright ©2022-Present: [RL Technologies, LLC](https://rltechs.com) and the [ThemeCore™ Development Code Team](mailto:codeteam@themecore.org). All Rights Reserved. </p>
+<p align="center" style="font-size: 11px;"> Copyright ©2022-Present: <a href="https://rltechs.com">RL Technologies, LLC</a>, <a href="https://themecore.org">ThemeCore™</a> and the <a href="mailto:codeteam@themecore.org">ThemeCore™ Development Code Team</a>. All Rights Reserved. </p>
