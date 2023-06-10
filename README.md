@@ -12,15 +12,17 @@
 
 ---
 
- #### While different parts of the ThemeCore project are covered by various approved open source licenses, our logos, icons, miscellaneous graphics, and other media are not. These files are considered commercial and proprietary in nature with respect to the ThemeCore project. As such, these forms of media have specific guidelines for both usage and reproduction. Any changes to the branding or policies of use for the branding will always be updated here in this repository as well as on the [ThemeCore](https://themecore.org/legal/) website.
-
+ #### While different parts of the ThemeCore project are covered by various approved open source licenses, our logos, icons, miscellaneous graphics, and other media are not. These files are considered commercial and proprietary in nature with respect to the ThemeCore project, fo protection of the ThemeCore brand.
+ 
+ #### As such, these forms of media have specific guidelines for both usage and reproduction. Any changes to the branding or policies of use for the branding will always be updated here in this repository as well as on the [ThemeCore](https://themecore.org/legal/) website.
+ 
  #### Most of the various forms of media in this repository are either trademarked, or registered trademarks of the ThemeCore project. The ThemeCore project itself was initially conceived and created by [Erik Roth](https://github.com/Erik-Roth) and is currently trademarked by [RL Technologies, LLC](https://rltechsllc.com) on behalf of, and for the [ThemeCore](https://themecore.org) project.
 
 ---
 
-#### Why are some things trademarked and not considered fully open source?
+#### Why are these items trademarked and not open source like the rest of the project?
 
-ThemeCore was conceived, and is being actively developed as a brand for a complete WordPress theme and plugin development solution. As such, the images, color palettes, layouts, etc for the brand were trademarked to provide consistency and recognizability in the representation of the brand. In addition, this provides continued protection of the ThemeCore brand, helping to ensure its reputation in the community in perpetuity.
+ThemeCore was conceived, and is being actively developed as a brand for a complete WordPress theme and plugin development solution. As such, the images, color palettes, layouts, etc for the brand were trademarked to provide consistency and recognizability in the representation of the brand. In addition, this provides continued protection of the ThemeCore brand, helping to ensure its reputation in the community in perpetuity. Much like WordPress itself, ThemeCore is meant to be a development solution that will stand the test of time.
 
 #### Can I use the ThemeCore branding in my projects?
 
