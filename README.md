@@ -1,6 +1,7 @@
 <p align="center">TC LOGO IMG HERE!</p>
 
-# <p align="center">Branding Repository</p>
+### <p align="center">Trademark and Branding Repository</p>
+##### <p align="center">Revision: June 2023</p>
 ### <p align="center">This repository is for all the various media assets within the ThemeCore™ project.</p>
 
 <p align="center">
@@ -11,9 +12,9 @@
 
 ---
 
- #### While different parts of the ThemeCore project are covered by various approved open source licenses, our logos, icons, miscellaneous graphics, and other media are not. As such, these forms of media have specific guidelines for both usage and reproduction. Any changes to the branding or policies of use for the branding will always be updated here in this repository. You can also find the information on the [ThemeCore](https://themecore.org/legal/) website.
+ #### While different parts of the ThemeCore project are covered by various approved open source licenses, our logos, icons, miscellaneous graphics, and other media are not. These files are considered commercial and proprietary in nature with respect to the ThemeCore project. As such, these forms of media have specific guidelines for both usage and reproduction. Any changes to the branding or policies of use for the branding will always be updated here in this repository as well as on the [ThemeCore](https://themecore.org/legal/) website.
 
- #### Most of the various forms of media in this repository are either trademarked, or registered trademarks of the ThemeCore project. The ThemeCore project itself was initially conceived and created by [Erik Roth](https://github.com/Erik-Roth) and is currently trademarked by [RL Technologies, LLC](https://rltechsllc.com) on behalf of the [ThemeCore](https://themecore.org) project.
+ #### Most of the various forms of media in this repository are either trademarked, or registered trademarks of the ThemeCore project. The ThemeCore project itself was initially conceived and created by [Erik Roth](https://github.com/Erik-Roth) and is currently trademarked by [RL Technologies, LLC](https://rltechsllc.com) on behalf of, and for the [ThemeCore](https://themecore.org) project.
 
 ---
 
@@ -23,11 +24,11 @@ ThemeCore was conceived, and is being actively developed as a brand for a comple
 
 #### Can I use the ThemeCore branding in my projects?
 
-Yes, and no. It all depends on how and why you wish to use the branding. We have developed a '[Trademark and Branding Usage Policy]()' to help you decide wether or not using the ThemeCore branding is acceptable for your project, website, or anywhere else you wish to use ThemeCore's branding. If you are unsure about anything contained in the policy guidelines, you can always send us an email at <branding@themecore.org>.
+Yes, and no. It all depends on how and why you wish to use the branding. We have developed a '[Branding Usage Policy](./BRAND_USEAGE.md)' to help you decide wether or not using the ThemeCore branding is acceptable for your project, website, or anywhere else you wish to use ThemeCore's branding. If you are unsure about anything contained in the policy guidelines, you can always send us an email at <branding@themecore.org>.
 
 #### Do you accept ideas or contributions to the branding?
 
-Yes, however since the branding is trademarked, there are special requirements and terms of use for branding submissions and contributions. To find out exactly what is required you can read up on the requirements and expectations in our '[Contribution Policy]()', and our '[Submission Policy]()'. If you find the terms and requirements in the policies are acceptable, we would love to have you on board with our team. 
+Yes, however since the branding is trademarked, there are special requirements and terms of use for branding submissions and contributions. To find out exactly what is required you can read up on the requirements and expectations in our '[Contribution Policy](./CONTRIBUTING.md)', and our '[Submission Policy](./SUBMISSION.md)'. If you find the terms and requirements in the policies are acceptable, we would love to have you on board with our team. 
 
 #### If it's all trademarked, why bother with master files and a branding repository?
 
@@ -37,10 +38,10 @@ Because, in the spirit of open source, we feel all the files for the ThemeCore p
 
 #### Recommended Reading...
 
-- [Trademark and Branding Usage Policy]()
-- [Trademark and Branding Contribution Policy]()
-- [Trademark and Branding Submission Policy]()
-- [Trademark and Branding Code Of Conduct]()
+- [Trademark and Branding Usage Policy](./BRAND_USEAGE.md)
+- [Trademark and Branding Contribution Policy](./CONTRIBUTING.md)
+- [Trademark and Branding Submission Policy](./SUBMISSION.md)
+- [Trademark and Branding Code Of Conduct](./CODE_OF_CONDUCT.md)
 
 ---
 
