@@ -67,12 +67,7 @@ Because, in the spirit of open source, we feel all the files for the ThemeCore p
 
 ---
 
-#### ThemeCore Artwork and Graphics Sponsors...
-<p align="center"></p>
-
----
-
-<p align="justify" style="font-size: 9px;">Brands, copyrights, and trademarks used or recommended in any of this repository's documentation and/or files are all copywritten and trademark by their respective companies and in no way does use or mention imply any form of endorsement of ThemeCore™ by the respective companies. Apple®, Motion®, Final Cut Pro® and their respective logos are registered trademarks of Apple in the United States and/or other Countries. Adobe®, Creative Cloud®, Illustrator®, Photoshop®, and their respective logos are registered trademarks of Adobe in the United States and/or other Countries. Gimp and Inkscape are Free and Open Source products freely available under the GPL.</p>
+<p align="justify" style="font-size: 9px;">Brands, copyrights, and trademarks used or recommended in any of this repository's documentation and/or files are all copywritten and trademark by their respective companies and in no way does use or mention imply any form of endorsement of ThemeCore™ by the respective companies. Apple®, Motion®, Final Cut Pro® and their respective logos are registered trademarks of Apple in the United States and/or other Countries. Adobe®, Creative Cloud®, Illustrator®, Photoshop®, and their respective logos are registered trademarks of Adobe in the United States and/or other Countries. WordPress®, WP-CLI®, and their respective logos are registered trademarks of The WordPress Foundation in the United States and/or other Countries. Gimp and Inkscape are Free and Open Source products freely available under the GPL.</p>
 
 ---
 <p align="center" style="font-size: 11px;"> Copyright ©2022-Present: <a href="https://rltechs.com">RL Technologies, LLC</a>, <a href="https://themecore.org">ThemeCore</a> and the <a href="mailto:codeteam@themecore.org">ThemeCore Development Code Team</a>. All Rights Reserved. </p>
