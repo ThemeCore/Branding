@@ -1,6 +1,6 @@
 <p align="center">TC LOGO IMG HERE!</p>
 
-# <p align="center">Artwork and Graphics Repository</p>
+# <p align="center">Branding Repository</p>
 ### <p align="center">This repository is for all the various media assets within the ThemeCore™ project.</p>
 
 <p align="center">
@@ -13,7 +13,7 @@
 
  #### While different parts of the ThemeCore project are covered by various approved open source licenses, our logos, icons, miscellaneous graphics, and other media are not. As such, these forms of media have specific guidelines for both usage and reproduction. Any changes to the branding or policies of use for the branding will always be updated here in this repository. You can also find the information on the [ThemeCore](https://themecore.org/legal/) website.
 
- #### Most of the various forms of media in this repository are either trademarked, or registered trademarks of the ThemeCore project. The ThemeCore project itself was created by [Erik Roth](https://github.com/Erik-Roth) and is currently trademarked by [RL Technologies, LLC](https://rltechsllc.com) on behalf of the [ThemeCore](https://themecore.org) project.
+ #### Most of the various forms of media in this repository are either trademarked, or registered trademarks of the ThemeCore project. The ThemeCore project itself was initially conceived and created by [Erik Roth](https://github.com/Erik-Roth) and is currently trademarked by [RL Technologies, LLC](https://rltechsllc.com) on behalf of the [ThemeCore](https://themecore.org) project.
 
 ---
 
@@ -31,33 +31,34 @@ Yes, however since the branding is trademarked, there are special requirements a
 
 #### If it's all trademarked, why bother with master files and a branding repository?
 
-Because, in the spirit of open source, we feel all the files for the ThemeCore™ project should be made available. It also provides us with a central point to keep the files available for those who wish to use them as a learning tool, as well as a place to store revisions so those in the future will know how it all started and evolved.
+Because, in the spirit of open source, we feel all the files for the ThemeCore project should be made available to the community at large. It also provides us with a central point to keep the files available for those who wish to use them as a learning tool, as well as a place to store revisions so those in the future will know how it all started and evolved.
 
 ---
 
 #### Recommended Reading...
 
-- ThemeCore Trademark and Branding Usage Policy
-- ThemeCore Trademark and Branding Contribution Policy
-- ThemeCore Trademark and Branding Submission Policy
-- ThemeCore Trademark and Branding Code Of Conduct
+- [Trademark and Branding Usage Policy]()
+- [Trademark and Branding Contribution Policy]()
+- [Trademark and Branding Submission Policy]()
+- [Trademark and Branding Code Of Conduct]()
 
 ---
 
 #### Recommended Software For Contributing...
 
-- Adobe After Effects (Version ??+) [webicon]()
-- Adobe Illustrator (Version ??+) [webicon]()
-- Adobe Photoshop (Version ??+) [webicon]()
-- Adobe Premier (Version ??+) [webicon]()
-- Gimp (version ??+) [webicon]()
-- Inkscape (Version ??+) [webicon]()
-- Final Cut Pro (Version ??+) [webicon]()
-- Motion (Version ??+) [webicon]()
+- [Adobe After Effects](https://www.adobe.com/products/aftereffects)
+- [Adobe Illustrator](https://www.adobe.com/products/illustrator)
+- [Adobe Photoshop](https://www.adobe.com/products/photoshop/)
+- [Adobe Premier Pro](https://www.adobe.com/products/premiere)
+- [Gimp](https://www.gimp.org/)
+- [Inkscape](https://inkscape.org/)
+- [Final Cut Pro](https://www.apple.com/final-cut-pro/)
+- [Motion](https://www.apple.com/final-cut-pro/motion/)
+- [Visual Studio Code](https://code.visualstudio.com/)
 
 ---
 
-#### ThemeCore™ Artwork and Graphics Contributors...
+#### ThemeCore Artwork and Graphics Contributors...
 
 <a href="https://github.com/ThemeCore/Graphics/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=ThemeCore/Graphics" />
@@ -65,7 +66,7 @@ Because, in the spirit of open source, we feel all the files for the ThemeCore�
 
 ---
 
-#### ThemeCore™ Artwork and Graphics Sponsors...
+#### ThemeCore Artwork and Graphics Sponsors...
 <p align="center"></p>
 
 ---
@@ -73,4 +74,4 @@ Because, in the spirit of open source, we feel all the files for the ThemeCore�
 <p align="justify" style="font-size: 9px;">Brands, copyrights, and trademarks used or recommended in any of this repository's documentation and/or files are all copywritten and trademark by their respective companies and in no way does use or mention imply any form of endorsement of ThemeCore™ by the respective companies. Apple®, Motion®, Final Cut Pro® and their respective logos are registered trademarks of Apple in the United States and/or other Countries. Adobe®, Creative Cloud®, Illustrator®, Photoshop®, and their respective logos are registered trademarks of Adobe in the United States and/or other Countries. Gimp and Inkscape are Free and Open Source products freely available under the GPL.</p>
 
 ---
-<p align="center" style="font-size: 11px;"> Copyright ©2022-Present: <a href="https://rltechs.com">RL Technologies, LLC</a>, <a href="https://themecore.org">ThemeCore™</a> and the <a href="mailto:codeteam@themecore.org">ThemeCore™ Development Code Team</a>. All Rights Reserved. </p>
+<p align="center" style="font-size: 11px;"> Copyright ©2022-Present: <a href="https://rltechs.com">RL Technologies, LLC</a>, <a href="https://themecore.org">ThemeCore</a> and the <a href="mailto:codeteam@themecore.org">ThemeCore Development Code Team</a>. All Rights Reserved. </p>
