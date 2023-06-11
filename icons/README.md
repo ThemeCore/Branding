@@ -1,1 +1,1 @@
-# ThemeCore™ Project Icons
+# Project Icons
